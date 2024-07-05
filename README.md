@@ -1,3 +1,6 @@
-# C++
-This is a learning by doing approach for c++.
-Solving problems while reading theory leads to proper command over the language.
+# Collection of Cpp Code 
+This repository is a collection of various types of Cpp Progam which i used while learning to master cpp 
+and DSA.
+
+# Fun things about this repo 
+I will write this section later.
